@@ -1,32 +1,70 @@
-# 💫 About Me:
-Web Developer Intern | HTML, CSS, PHP, MySQL<br>Building real-world projects 🚀<br>Learning backend & database-driven applications
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=muhammadasim2009&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223684669%3Fu%3Df68838be7a62266424b8f5808238a85f5e78ef3a%26v%3D4" alt="muhammadasim2009 hero visual" />
+</p>
 
+<p align="center"><b>Muhammad Asim</b> · Frontend or full-stack engineer<br/><sub>Web Developer | HTML, CSS, PHP, MySQL  
+Building real-world web projects 🚀  
+Learning backend &amp; database-driven applications</sub></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadasim09/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasim4589@gmail.com) 
+<p align="center"><a href="https://github.com/muhammadasim2009">GitHub</a> · <a href="https://muhammadasim2009.github.io/Portfolio/">Website</a></p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muhammadasim2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=muhammadasim2009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadasim2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=muhammadasim2009&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223684669%3Fu%3Df68838be7a62266424b8f5808238a85f5e78ef3a%26v%3D4" alt="muhammadasim2009 projects visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [Track-Cash](https://github.com/MuhammadAsim2009/Track-Cash) · ★ 0 — Personal finance app to track your wallets, monthly budget and udhaar. Built with Flutter, SQLite an
+- [E-Portal-Platform](https://github.com/MuhammadAsim2009/E-Portal-Platform) · ★ 0 — Cloud-based University E-Portal (Student + Faculty + Admin) – University of Larkana
+- [MarketLink](https://github.com/MuhammadAsim2009/MarketLink) · ★ 0 — Connects local farmers-market Farmers with Customers for stock browsing and pre-order pickup, with m
+- [Restaurant-Management-System](https://github.com/MuhammadAsim2009/Restaurant-Management-System) · ★ 0 — Full-stack Restaurant Management &amp; Online Ordering System (SPA + PHP/MySQL + Tailwind CSS) with live
+- [Restaurant-POS-System](https://github.com/MuhammadAsim2009/Restaurant-POS-System) · ★ 0 — A modern, full-featured Restaurant POS &amp; Management System built with PHP, MySQL, and a sleek dark-m
+- [GiveAid-NGO-Website](https://github.com/MuhammadAsim2009/GiveAid-NGO-Website) · ★ 0 — NGO donation website built with ASP.NET Core MVC and SQL Server. Users can donate to causes, join pr
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=muhammadasim2009&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223684669%3Fu%3Df68838be7a62266424b8f5808238a85f5e78ef3a%26v%3D4" alt="muhammadasim2009 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>15</b> public repositories, <b>0</b> stars, <b>269</b> contributions in the last year, a longest streak of <b>12</b> days and <b>2</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=muhammadasim2009&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223684669%3Fu%3Df68838be7a62266424b8f5808238a85f5e78ef3a%26v%3D4" alt="muhammadasim2009 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=muhammadasim2009&theme=neon" alt="muhammadasim2009 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=muhammadasim2009&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F223684669%3Fu%3Df68838be7a62266424b8f5808238a85f5e78ef3a%26v%3D4" alt="muhammadasim2009 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Muhammad Asim</sub></p>
