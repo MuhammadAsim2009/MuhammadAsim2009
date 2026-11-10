@@ -6,7 +6,7 @@
 Building real-world web projects 🚀  
 Learning backend &amp; database-driven applications</sub></p>
 
-<p align="center"><a href="https://github.com/muhammadasim2009">GitHub</a> · <a href="https://muhammadasim2009.github.io/Portfolio/">Website</a></p>
+<p align="center"><a href="https://github.com/muhammadasim2009">GitHub</a> · <a href="https://muhammadasim2009.github.io/Portfolio/">Portfolio</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
